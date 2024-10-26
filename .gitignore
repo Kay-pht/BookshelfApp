@@ -182,7 +182,7 @@ yarn-error.log*
 next-env.d.ts
 
 # custom
-vscode
+.vscode
 01_js_basic
 02_node_basic
 03_npm 
