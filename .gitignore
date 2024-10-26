@@ -194,3 +194,4 @@ next-env.d.ts
 09_bookshelf_frontend
 99_bookshelf 
 100_desktop_mobile_app
+081_bookshelf_backend/.env
